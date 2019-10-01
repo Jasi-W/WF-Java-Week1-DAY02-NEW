@@ -3,95 +3,52 @@ p	{ font-family: calibri; color: dimgray; font-size: 1em; }
 h1	{ font-family: calibri; color: dimgray; font-size: 2em; }
 h2	{ font-family: calibri; color: dimgray; font-size: 1.5em; }
 h3	{ font-family: calibri; color: dimgray; font-size: 1.2em; }
-li 	{ font-family: calibri; color: dimgray; font-size: 1.2em; }
-nav	{ font-family: calibri; font-size: 1.2em; }
 
-a         { font-family: calibri; font-size: 1em; color: lightgray; }
+nav	{ font-family: calibri; font-size: 1.2em; }
+li 	{ font-family: calibri; color: dimgray; font-size: 1.2em; }
+
+a         { font-family: calibri; color: lightgray; }
 a:focus   { color: dimgray; background-color: white; }
-a:hover   { color: lightgray; color: white; }
+a:hover   { color: lightgray; background-color: white; }
 a:active  { color: dimgray; background-color: white; }
 
 /* 
-* {
-	border: 1px dashed red;
-}
+* { border: 1px dashed red; }
 */
 
 * {
 	box-sizing: border-box;
+	margin: 0;
 	-webkit-user-select: none;
     -moz-user-select: -moz-none;
-	margin: 0;
 }
 
 header {
-	width: 100%;
-	height: 80px;
-	background-color: white;
+
 }
 
 nav {
-	width: 100%;
-	min-height: 40px;
-	line-height: 40px;
-	margin-bottom: 5px;
-	text-align: center;
-	font-size: 1.2em;
-	background-color: gray;
-}
 
-nav a {
-	padding: 5px 20px 10px 20px;
-	text-decoration: none;
-}
-
-nav a:hover:not(.nav_active) {
-	background-color: lightgray;
-	color: dimgray;
-}
-
-.nav_active {
-	background-color: white;
-	color: dimgray;
-	cursor: default;
 }
 
 main {
-	width: 100%;
-	margin-bottom: 5px;
-	float: left;
+
 }
 
 section {
-	width: 20%;
-	float: left;
+
 }
 
 article {
-	width: 80%;
-	height: 80%;
-	float: left;
-	padding: 10px;
-	border-left: 1px solid gray;
-	border-right: 1px solid gray;
-	overflow: auto;
+
+}
+
+aside {
+	
 }
 
 footer {
-	width: 100%;
-	height: 40px;
-	margin-bottom: 5px;
-	background-color: gray;
-	clear: both;
-	
-	display: flex;
-	align-items: center;
-	justify-content: center;
-}
 
-footer a {
-	margin: 0 100px;
-	text-decoration: none;
 }
 
 
@@ -103,30 +60,15 @@ footer a {
 	justify-content: center;
 }
 
-.border {
-	border: 1px solid gray;
-	margin: 10px 10px;
-	padding: 10px;
-	background-color: lightgray;
-}
+.centered { text-align: center; }
+.opacity { opacity: 0.6; }
+.opacity:hover { opacity: 1; }
 
-ul { margin: 5px 50px 20px 0; }
-.link a { color: blue; }
 
-.status {
-	text-align: center;
-	line-height: 85px;
-}
-
-figcaption {
-	font-size: 0.8em;
-	text-align: center;
-}
-
-fieldset {
-	margin-bottom: 10px;
-	border-radius: 6px;
-	background-color: lightgray;
+.shadow {
+	-webkit-box-shadow: 0px 0px 10px darkgrey;
+	-moz-box-shadow: 0px 0px 10px darkgrey;
+	box-shadow: 0px 0px 10px darkgrey;
 }
 
 ::placeholder {
@@ -135,8 +77,6 @@ fieldset {
 	font-style: italic;
 }
 
-.opacity { opacity: 0.6; }
-.opacity:hover { opacity: 1; }
 
 /* --TABLE-- */
 .table { display: table; }
@@ -144,28 +84,59 @@ fieldset {
 	
 .td { 
       display:table-cell; 
-      padding: 5px 20px 5px 5px; 
+      padding: 10px; 
 }
 
 .row {
-	width: 50%;
-	float: left;
+	width: 100%;
 }
 
 .column {
-	width: 33%;
-	float: left;
+	width: auto;
 }
 
-.column img { width: auto; }
 
-.columns {
-	width: 25%;
-	float: left;
+/*-- FLEXBOX --*/
+.flex { 
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 10px;
 }
-	
-.columns img { width: 100%; }
-	
+
+.flex div {
+	width: 45%;
+	height: auto;
+	margin-bottom: 20px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.flex img {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+}
+
+
+/*-- RESPONSIVE --*/
+@media screen and (max-width: 700px) {
+	.item { width: 45%; }
+}
+
+
+@media screen and (max-width: 500px) {
+	.item { width: 90%; }
+	nav {margin: 10px; }
+	nav a { display: block; text-align: center; border: 2px solid lightgray; }
+}
+
+
+
+
+
+
+
 /* --TEAM-- */
 .split {
   width: 50%;
@@ -195,13 +166,6 @@ fieldset {
   border-radius: 50%;
 }
 
-.centered 
-
-.shadow {
-	-webkit-box-shadow: 0px 0px 10px darkgrey;
-	-moz-box-shadow: 0px 0px 10px darkgrey;
-	box-shadow: 0px 0px 10px darkgrey;
-}
 
 
 /* --TABS-- */
