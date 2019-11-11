@@ -1,0 +1,44 @@
+
+<div class="container">
+	<app-travel-list></app-travel-list>
+</div>
+
+<div class="container">
+<div class="row">
+	<div class="col-md-5">
+		<form [formGroup]="this.travelService.form" (ngSubmit)="onSubmit()">
+			<input type="hidden" formControlName="$key">
+			<div class="form-group">
+			<div class="form-group">
+				<label>Image</label>
+				<input type="file" formControlName="img" class="form-control" [ngClass]="{'is-invalid':submitted && formControls.img.errors}">
+				<div class="invalid-feedback" *ngIf="submitted && formControls.img.errors">This field is required</div>
+			</div>
+
+				<label>City</label>
+				<input formControlName="city" class="form-control" [ngClass]="{'is-invalid':submitted && formControls.city.errors}">
+				<div class="invalid-feedback" *ngIf="submitted && formControls.city.errors">This field is required</div>
+			</div>
+
+			<div class="form-group">
+				<label>County</label>
+				<input formControlName="country" class="form-control" [ngClass]="{'is-invalid':submitted && formControls.country.errors}">
+				<div class="invalid-feedback" *ngIf="submitted && formControls.country.errors">This field is required</div>
+			</div>
+
+			<div class="form-group">
+				<label>Price</label>
+				<input formControlName="price" class="form-control" [ngClass]="{'is-invalid':submitted && formControls.price.errors}">
+				<div class="invalid-feedback" *ngIf="submitted && formControls.price.errors">
+					<label *ngIf="formControls.price.errors.required">This field is required</label>
+				</div>
+			</div>
+			<div class="form-group">
+				<input type="submit" class="btn btn-primary" value="Submit">
+			</div>
+		</form>
+		
+		<div class="alert alert-info" *ngIf="showSuccessMessage">submitted successfully.</div>
+	</div>
+</div>
+</div>

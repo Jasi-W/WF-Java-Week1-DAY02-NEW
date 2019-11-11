@@ -1,0 +1,10 @@
+
+nav {
+	height: 350px;
+	background-image: url("src/img/city-travel.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: top;
+}
+
+nav a { color: dimgray; }
