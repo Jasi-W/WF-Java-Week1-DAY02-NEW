@@ -1,109 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f6d3ebe-d995-4984-aaf5-301bc323cc11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_test.patch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/GIT-cheatsheet_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/GIT-cheatsheet_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/HTML_structure.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/HTML_structure2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/ams.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/bild.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/codefactory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/example_element.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/figure.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/git-plan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/git.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/github.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/head_template.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/html-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/html_example.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/html_template.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/ibm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/img.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/kursplan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/link.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/link_anker.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/link_mailto.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/nested_ol.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/nested_ul.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/ol.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/paragraph.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/paragraph2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/table.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/tag.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/tag2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/ul.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/img/waff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/inc/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/inc/head.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/inc/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/inc/nav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/inc/section.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/inc/sites.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/tab/codereview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/tab/css.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/tab/exercises.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/tab/git.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/tab/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/tab/html.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../00 HTML_tutorial/home/tab/javascript.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01 WF-GIT-DAY01-Jasmine-Ece/WF-GIT-DAY01-pairEce-pairWagner-local" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01 WF-GIT-DAY01-Jasmine-Ece/collab_git_project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01 WF-GIT-DAY01-Jasmine-Ece/first_git_project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02 WF-HTML5-DAY01-Jasmine-Haris/1 basic exercise/exercise_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02 WF-HTML5-DAY01-Jasmine-Haris/1 basic exercise/exercise_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02 WF-HTML5-DAY01-Jasmine-Haris/1 basic exercise/exercise_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02 WF-HTML5-DAY01-Jasmine-Haris/2 intermediate exercise/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03 WF-CSS3-DAY01-Jasmine-Haris" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../04 WF-CSS3-DAY02-Jasmine-Wojciech" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Challenge/Jasmine/Logo.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Challenge/Jasmine/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Challenge/Jasmine/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Challenge/Mattias/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Challenge/Mattias/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Intermediate Exercise/Jasmine/Label_-cereal-dual-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Intermediate Exercise/Jasmine/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Intermediate Exercise/Jasmine/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Intermediate Exercise/Mattias/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Intermediate Exercise/Mattias/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05 WF-CSS3-DAY03-Jasmine-Mattias/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../06 WF-CCS3-DAY04-Jasmine-Markus" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../07 WF-CSS3-DAY05-Jasmine-Markus" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14 WF-Project-01/WF-CoreTech-6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Templates/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Templates/template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Templates/vorlagen.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/banner-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/banner-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/banner-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/banner-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/banner-mobile-fswd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/eu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/iphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/jeff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/logo-newspaper-cf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/musk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/nasa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/one.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/polar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/smart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/img/snowden.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/layout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/mobile-layout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-01/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-02/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WF-Jasmine-CodeReview-02/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="3f6d3ebe-d995-4984-aaf5-301bc323cc11" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
                 <element signature="e#63#64#0" expanded="true" />
                 <element signature="e#99#100#0" expanded="true" />
@@ -172,6 +70,11 @@
             <path>
               <item name="test2" type="b2602c69:ProjectViewProjectNode" />
               <item name="test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574157774937</updated>
       <workItem from="1574157776327" duration="16000" />
-      <workItem from="1574157847043" duration="925000" />
+      <workItem from="1574157847043" duration="1280000" />
     </task>
     <task id="LOCAL-00001" summary="test test">
       <created>1574158362934</created>
@@ -261,11 +164,25 @@
       <option name="project" value="LOCAL" />
       <updated>1574158611328</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="teststesdf">
+      <created>1574158798641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574158798641</updated>
+    </task>
+    <task id="LOCAL-00006" summary="teststesdf">
+      <created>1574158836125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574158836125</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="941000" />
+    <option name="totallyTimeSpent" value="1296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="828" extended-state="6" />
@@ -286,10 +203,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.23994254" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49959514" visible="true" weight="0.23994254" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50040483" side_tool="true" weight="0.23994254" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -310,13 +227,14 @@
     <MESSAGE value="test test" />
     <MESSAGE value="class Main" />
     <MESSAGE value="helloooooo!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="helloooooo!!!!" />
+    <MESSAGE value="teststesdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="teststesdf" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
             <element signature="e#63#64#0" expanded="true" />
             <element signature="e#99#100#0" expanded="true" />
