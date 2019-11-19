@@ -1,3 +1,8 @@
+
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class Week {
 
     public static void main(String[] args) {
@@ -12,14 +17,13 @@ public class Week {
         }
         int number = scan.nextInt();
 
-        String[] weekdays = { "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag" };
 
+        String[] array = new String[]{"Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"};
 
-        int i = 0;
+        // Traversing the array - Array.get method Note : typecasting is essential as the return type in Object.
+        String x = (String) Array.get(array, number-1);
 
-        if(number == ) {
-
-        }
+        // Printing the values
+        System.out.print(x + " ");
     }
-
 }

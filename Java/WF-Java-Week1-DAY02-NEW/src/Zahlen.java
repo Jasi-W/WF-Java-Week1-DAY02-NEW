@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Zahlen {
     public static void main(String[] args) {
 
@@ -23,5 +25,4 @@ public class Zahlen {
             System.out.println("and small number");
         }
     }
-
 }
